@@ -1,4 +1,5 @@
 import Cloudinary from 'cloudinary';
+import { _ } from 'meteor/underscore';
 
 Slingshot.Cloudinary = {
   directiveMatch: {
